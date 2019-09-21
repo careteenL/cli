@@ -1,5 +1,5 @@
 # [@careteen-cli](https://github.com/careteenL/cli)
-[![](https://img.shields.io/badge/Powered%20by-lru-brightgreen.svg)](https://github.com/careteenL/cli)
+[![](https://img.shields.io/badge/Powered%20by-cli-brightgreen.svg)](https://github.com/careteenL/cli)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/careteenL/cli/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/careteenL/cli.svg?branch=master)](https://travis-ci.org/careteenL/cli)
 [![npm](https://img.shields.io/badge/npm-1.0.0-orange.svg)](https://www.npmjs.com/package/@careteen/cli)
