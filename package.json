@@ -1,0 +1,44 @@
+{
+  "name": "@careteen/cli",
+  "version": "1.0.0",
+  "description": "🚀",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "bin": {
+    "@careteen/cli": "./bin/www",
+    "@careteen-cli": "./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careteenL/cli.git"
+  },
+  "keywords": [],
+  "author": "careteenL <15074806497@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/careteenL/cli/issues"
+  },
+  "homepage": "https://github.com/careteenL/cli#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "commander": "^3.0.1",
+    "consolidate": "^0.15.1",
+    "download-git-repo": "^2.0.0",
+    "ejs": "^2.7.1",
+    "husky": "^3.0.5",
+    "inquirer": "^7.0.0",
+    "metalsmith": "^2.3.0",
+    "ncp": "^2.0.0",
+    "ora": "^3.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "hooks": {
+    "pre-commit": "npm run lint"
+  }
+}
