@@ -10,6 +10,7 @@ const templateRepos = [
   'vue-backend-template',
   'jslib-cli',
   'vue-multi-page',
+  'applet-mpvue-base',
 ];
 
 module.exports = {

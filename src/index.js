@@ -12,15 +12,15 @@ const mapActions = {
     alias: 'c',
     description: 'create a project',
     examples: [
-      '@careteen/cli create <project-name>',
+      'careteen create <project-name>',
     ],
   },
   config: {
     alias: 'conf',
     description: 'config project variable',
     examples: [
-      '@careteen/cli config set <k> <v>',
-      '@careteen/cli config get <k>',
+      'careteen config set <k> <v>',
+      'careteen config get <k>',
     ],
   },
   '*': {
@@ -40,7 +40,7 @@ Reflect.ownKeys(mapActions).forEach((action) => {
         console.log(mapActions[action].description);
       } else { // create config ....
         // console.log(action); // create / config
-        // @careteen/cli create xxx // [node,@careteen/cli,create,xxx]
+        // careteen create xxx // [node,careteen,create,xxx]
         require(path.resolve(__dirname, action))(...process.argv.slice(3));
       }
     });
