@@ -1,4 +1,4 @@
-# [@careteen-cli](https://github.com/careteenL/cli)
+# [@careteen/cli](https://github.com/careteenL/cli)
 [![](https://img.shields.io/badge/Powered%20by-cli-brightgreen.svg)](https://github.com/careteenL/cli)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/careteenL/cli/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/careteenL/cli.svg?branch=master)](https://travis-ci.org/careteenL/cli)
@@ -15,7 +15,7 @@ npm i -g @careteen/cli
 ```
 THEN
 
-![@careteen-cli-example-1](./assets/careteen-cli-example-1-new.gif)
+![@careteen-cli-example-1](./assets/careteen-cli-example-1-new-mini.gif)
 
 ## 使用文档
 
