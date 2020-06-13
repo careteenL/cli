@@ -1,5 +1,10 @@
 # 变更日志
 
+## 1.2.0 / 2020-06-14
+
+- 提供React后台管理系统模板
+  - [react-admin-template React后台管理系统模板](https://github.com/careteenL/react-admin-template)
+
 ## 1.1.0 / 2019-10-09
 
 - 提供小程序模板项目
