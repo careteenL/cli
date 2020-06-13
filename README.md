@@ -42,6 +42,7 @@ careteen create my-project
 - [vue-multi-page Vue多页面系统模板](https://github.com/careteenL/vue-multi-page)
 - [vue-backend-template Vue后台管理系统模板](https://github.com/careteenL/vue-backend-template)
 - [applet-mpvue-base mpVue小程序模板](https://github.com/careteenL/applet-mpvue-base)
+- [react-admin-template React后台管理系统模板](https://github.com/careteenL/react-admin-template)
 
 各取所需...
 
