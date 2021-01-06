@@ -15,7 +15,7 @@ npm i -g @careteen/cli
 ```
 THEN
 
-![@careteen-cli-example-1](./assets/careteen-cli-example-1-new-mini.gif)
+![@careteen-cli-example-1](https://careteenl.github.io/images/careteen-cli-example-1-new-mini.gif)
 
 ## 使用文档
 
@@ -28,13 +28,13 @@ npm i -g @careteen/cli
 ```shell
 careteen --help
 ```
-![@careteen-cli-example-0](./assets/@careteen-cli-example-0-new.png)
+![@careteen-cli-example-0](https://careteenl.github.io/images/@careteen-cli-example-0-new.png)
 
 ### 下载项目
 ```shell
 careteen create my-project
 ```
-![@careteen-cli-example-2](./assets/@careteen-cli-example-2-new.png)
+![@careteen-cli-example-2](https://careteenl.github.io/images/@careteen-cli-example-2-new.png)
 
 目前提供四个模板项目
 
