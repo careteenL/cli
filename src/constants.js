@@ -11,6 +11,7 @@ const templateRepos = [
   'jslib-cli',
   'vue-multi-page',
   'applet-mpvue-base',
+  'react-admin-template',
 ];
 
 module.exports = {
