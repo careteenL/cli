@@ -1,5 +1,21 @@
 # 变更日志
 
+## 3.0.0 / 2021-11-07
+
+- 提供`figlet`
+- 支持`git init && npm install`
+- 支持包管理工具选择 `yarn / npm`
+- 使用`lerna`重构
+- 提供新命令`careteen add material`
+  - `umi.page` empty 、 list
+  - `umi.component` empty
+  - `pro.package`
+- 提供版本更新功能
+- 提供新命令`careteen clean`
+  - 功能：清除本地缓存
+- 提供新命令`careteen domain`
+  - 功能：为rscode提供新建分支的配置
+
 ## 1.2.0 / 2020-06-14
 
 - 提供React后台管理系统模板

@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+const childProcess = require('child_process');
+
+try {
+  childProcess.execSync('cd packages/cli && npm run lint && npm run typeCheck && rm -rf dist && npm run build && git add .', { stdio: [0, 1, 2] });
+} catch (error) {
+  console.log(error.stdout ? error.stdout.toString() : error);
+  process.exit(1);
+}
