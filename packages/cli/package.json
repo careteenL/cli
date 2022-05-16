@@ -31,7 +31,7 @@
     "commander": "^8.1.0",
     "consolidate": "^0.15.1",
     "download-git-repo": "^2.0.0",
-    "ejs": "^2.7.1",
+    "ejs": "^3.1.7",
     "figlet": "^1.5.2",
     "fs-extra": "^10.0.0",
     "husky": "^3.0.5",
